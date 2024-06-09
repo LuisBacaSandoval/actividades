@@ -172,7 +172,7 @@ CLase: HintGenerator
 
 La imagen muestra la ejecución del programa, en este sprint se muestra un mensaje de bienvenida y una pista inicial.
 
-![sprint 1 test WordSelector](../img/sprint1.test1.png)
+![sprint 1 test WordSelector](../img/sprint1test1.png)
 
 La imagen muestra la ejecución de los test para la clase `WordSelector`, tenemos los siguientes test:
 * test verifica que la palabra que retorna la funcion, no sea nula
